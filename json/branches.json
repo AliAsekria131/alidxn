@@ -1,0 +1,65 @@
+{
+  "country": "سوريا",
+  "governorates": [
+    {
+      "name": "دمشق",
+      "branches": [
+        {
+          "name": "فرع دمشق الرئيسي",
+          "address": "شارع الثورة، دمشق",
+          "phone": "+963112345678",
+          "location": {
+            "latitude": 33.5138,
+            "longitude": 36.2765
+          }
+        },
+        {
+          "name": "فرع المزة",
+          "address": "شارع بغداد، المزة",
+          "phone": "+963112345679",
+          "location": {
+            "latitude": 33.4767,
+            "longitude": 36.2525
+          }
+        }
+      ]
+    },
+    {
+      "name": "حلب",
+      "branches": [
+        {
+          "name": "فرع حلب الرئيسي",
+          "address": "شارع بارون، حلب",
+          "phone": "+963212345678",
+          "location": {
+            "latitude": 36.2021,
+            "longitude": 37.1343
+          }
+        },
+        {
+          "name": "فرع الشيخ مقصود",
+          "address": "شارع الكورنيش، الشيخ مقصود",
+          "phone": "+963212345679",
+          "location": {
+            "latitude": 36.215,
+            "longitude": 37.16
+          }
+        }
+      ]
+    },
+    {
+      "name": "حمص",
+      "branches": [
+        {
+          "name": "فرع حمص الرئيسي",
+          "address": "شارع القوتلي، حمص",
+          "phone": "+963312345678",
+          "location": {
+            "latitude": 34.7324,
+            "longitude": 36.7137
+          }
+        }
+      ]
+    }
+  ]
+}

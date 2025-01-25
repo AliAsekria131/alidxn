@@ -1,0 +1,51 @@
+/* تخصيص الشريط */
+.navbar {
+  padding: 10px 0;
+}
+
+.navbar-brand {
+  background-color: white; /* خلفية بيضاء */
+  padding: 5px; /* إضافة بعض المساحة حول الشعار */
+  border-radius: 5px; /* حواف مستديرة */
+}
+
+.navbar-brand img {
+  width: clamp(2.813rem, 3.125vw + 2.188rem, 5rem);
+}
+
+/* تخصيص روابط التنقل */
+.navbar-nav .nav-link {
+  font-size: 18px;
+  margin-left: 15px;
+  color: #fff !important;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #f8b400 !important;
+}
+
+section {
+  padding: 70px 0;
+}
+
+.card {
+  box-shadow: 0px  0px 4px rgb(0, 0, 0,0.1);
+  align-items: center;
+  
+}
+
+.card-img-top {
+  width: 120px;
+  padding: 0px;
+}
+.card-title {
+  font-size: clamp(0.688rem, 0.536vw + 0.643rem, 1.063rem) /* استخدام clamp لجعل الخط أكثر استجابة */
+}
+.card-body .btn{
+  font-size: clamp(0.688rem, 0.536vw + 0.643rem, 1.063rem);
+  padding: 4px;
+}
+
+.descr-img{
+  width: 150px;
+}
