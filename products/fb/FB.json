@@ -1,0 +1,27 @@
+[
+    {
+        "name": "منتج 1",
+        "description": "وصف المنتج 1",
+        "image": "img/product1.jpg"
+    },
+    {
+        "name": "منتج 2",
+        "description": "وصف المنتج 2",
+        "image": "img/product2.jpg"
+    },
+    {
+        "name": "منتج 3",
+        "description": "وصف المنتج 3",
+        "image": "img/product3.jpg"
+    },
+    {
+        "name": "منتج 4",
+        "description": "وصف المنتج 3",
+        "image": "img/product3.jpg"
+    },
+    {
+        "name": "منتج 4",
+        "description": "وصف المنتج 3",
+        "image": "img/product3.jpg"
+    }
+]
